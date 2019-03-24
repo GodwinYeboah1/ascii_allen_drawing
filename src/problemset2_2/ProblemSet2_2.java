@@ -4,23 +4,18 @@ public class ProblemSet2_2 {
 	
 	public static void drawEar() {
 		 	// ear section	 
-	   	   	System.out.println("       /\\           /\\    "  );
-	   	   	System.out.println("                             " );
-	   	   	System.out.println("                              ");
-	   	 	System.out.println("                              ");
-	   	 	System.out.println("                              ");
-	   	 	System.out.println("                              ");
-	   	 	System.out.println(" \\______________________________/		");
+	   	   	System.out.println("  /\\________________________/\\  ");
+	   	 	System.out.println(" |__                       ___|");
 	   	   	 
 	}
 	 public static void drawHead() {
 		 	// head section	 
-	   	   	System.out.println(" |                             |    ");
-	   	   	System.out.println(" |      $               $      |    ");
-	   	   	System.out.println(" |                             |    ");
-	   	 	System.out.println(" |              *              |    ");
-	   	 	System.out.println(" |                             |	");
-	   	 	System.out.println(" \\              -              /     ");
+	   	   	System.out.println(" |                            |    ");
+	   	   	System.out.println(" |      $               $     |    ");
+	   	   	System.out.println(" |                            |    ");
+	   	 	System.out.println(" |              *             |    ");
+	   	 	System.out.println(" |                            |	");
+	   	 	System.out.println(" \\              --            /     ");
 	   	 	System.out.println("   \\_______________________/		");
 	   	   	 
 	 }
